@@ -11,6 +11,7 @@ Source : wikipedia
 2. Given the force in random directions and update the position of the balls according to F = ma and the Collision law.
 3. Draw the graph of the average position of all big balls. You can find the fact that big balls go higher as time grows.
 4. To see more details, you can visit my YT video. 
+
 https://www.youtube.com/watch?v=oBw9wTFEzPs&ab_channel=%E8%BB%92%E6%BD%98
 ## Note ##
 1. Remember to install vpython if you haven't downloaded it yet
